@@ -29,7 +29,6 @@
 * CSS
 * Git and Github
 * JavaScript
-* JQuery
 
 * * *
 

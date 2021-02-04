@@ -1,111 +1,58 @@
-# {Project Name}
-#### *Co-Created By:*
-#### *Co-Created By:*
-#### *{Brief Project Description}*
-<!-- Check list
-- Project Name
-- Author
-- Brief Description
-- Description
-- Specs
-- Link in gh-pages
-- Project repo
-- git clone repo link
-- date
- -->
-* * *
+# _TEMPLATE_
 
-## Description  
-{project description}
+#### _Website to demonstrate competency in JavaScript constructors and prototypes_
 
-* * *
+#### By _**Ash Porter (KirbyPaint)**_
+#### Co-Authored-By _**Co-author**_
+
+## Description
+
+_The purpose of this website is to_
+
 ## Specs
 
+```js
+"All test inputs are based off of initial Pizza declaration"
 
-* * *
-
-## Technologies used
-* HTML
-* CSS
-* Git and Github
-* JavaScript
-
-* * *
-
-
-## Installation : 
-### Want to see this webpage now?
-###### See this web page in action on [Github Pages]({repo})
-
-* Go to ( {project repo} ).
-
-*  Navigate to the code button on the github website.\
-![Code button](/img/README/code.PNG)
-
-* Click on the code button to open the menu.\
-![Github Repo Example](/img/README/HTTPS.png)
-
-- Copy the HTTPS code by clicking the clipboard next to the link.
-
-- Within your Bash terminal navigate to your desired location by using cd fallowed by your desired directory.
-```bash
- cd Desktop
-``` 
-
-- Once you have chosen your desired directory use the command.
-```bash 
-git clone {git repo}
+Describe:
+Test:
+Expect:
+Status: 
 ```
 
-<div 
-  style="
-    background-color: #d1ecf1; 
-    color: grey; padding: 6px; 
-    font-size: 9px; 
-    border-radius: 5px; 
-    border: 1px solid #d4ecf1; 
-    margin-bottom: 12px"
-> 
-  <span 
-    style="
-      font-size: 12px; 
-      font-weight: 600; 
-      color: #0c5460;"
-  >
-    ⓘ
-  </span>
-  <span 
-    style="
-      font-size: 12px; 
-      font-weight: 900; 
-      color: #0c5460;
-      margin-bottom: 24px"
-  >
-    Note : 
-  </span> 
-  If you have any problems make sure your HTTPS code is correct! The example above might not be the most recent HTTPS code!
-</div>
+## Setup/Installation Requirements
 
+#### This page has been tested with both the most recent versions of Mozilla Firefox and Google Chrome
 
-* Then after the process is completed use the command.
+_Choose your preferred way to Install:_
 
-``` bash
-code .
-```
+### Using Git cloning (Most complete option):
+* Open Git or your preferred terminal
+* Navigate to your directory for Git projects (not within an existing project)
+* Type the following: git clone https://github.com/KirbyPaint/.git
 
+### Download the project as a ZIP folder:
+* Navigate to the project's page here: https://github.com/KirbyPaint/
+* Look for the green  ![code button](img/code.png?raw=true "code button")  button
+* Click the button and you will see a drop-down menu. Look for the "Download ZIP" button
+* Save your download locally and extract the files to a directory of your choice
+* Double-click the file named "index.html" to view the page
 
-## Addition comments:
-* Created on x/xx/21
+### View the project in your browser (Most convenient option):
+* Navigate to this link to view in your browser: https://kirbypaint.github.io/
 
+## Known Bugs
 
-* * *
+## Support and contact details
 
-## License:
-> *&copy; David Couch, 2021*
+_Discord: @KirbyPaint#0751_
 
-Licensed under [MIT license](https://mit-license.org/)
+## Technologies Used
 
-* * *
+_HTML, CSS (Bootstrap), JavaScript (jQuery)_
 
-## Contact Information
-_David Couch: [Email](dcouch440@gmail.com)_
+### License Information
+
+_GNU Public License_
+
+Copyright (c) 2021 **_KirbyPaint_**

@@ -33,7 +33,7 @@ _Choose your preferred way to Install:_
 
 ### Download the project as a ZIP folder:
 * Navigate to the project's page here: https://github.com/KirbyPaint/
-* Look for the green  ![code button](img/code.png?raw=true "code button")  button
+* Look for the green  ![code button](assets\images\code.PNG?raw=true "code button")  button
 * Click the button and you will see a drop-down menu. Look for the "Download ZIP" button
 * Save your download locally and extract the files to a directory of your choice
 * Double-click the file named "index.html" to view the page
